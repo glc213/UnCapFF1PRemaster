@@ -1,0 +1,37 @@
+# 🎮 Pixel FPS MASTER+
+
+A retro, wave-based pixel FPS built with HTML5 Canvas and pure JavaScript.
+
+![Screenshot](assets/screenshot.png)
+
+## 🚀 Features
+- 🔫 Weapon Switching (Pistol, Shotgun, SMG)
+- 💥 Procedural Enemy Waves
+- 📈 Level Scaling + Boss Fights
+- 💉 Powerups (Medkits, Shields, Guns)
+- 🗺️ Radar Minimap
+- 💾 Save/Load System (LocalStorage)
+- 🎨 Pixel Font & Sprites
+- 🎮 Fully Playable in Browser or .exe Launcher
+
+---
+
+## 🧰 How to Play
+
+| Action         | Input              |
+|----------------|--------------------|
+| Move           | `W`, `A`, `S`, `D` |
+| Aim            | Mouse              |
+| Shoot          | Left Click         |
+| Reload         | `R`                |
+| Switch Weapon  | `1`, `2`, `3`      |
+| Open Shop      | `B`                |
+| Pickups        | Walk over          |
+
+---
+
+## 🖥️ Run Locally (Browser)
+
+### ▶ Using Python:
+```bash
+python -m http.server 8080
